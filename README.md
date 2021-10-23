@@ -1,1 +1,1 @@
-# eskool
+# eSkool
